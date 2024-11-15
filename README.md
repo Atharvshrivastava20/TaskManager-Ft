@@ -68,4 +68,4 @@ This project is licensed under the MIT License. **This code is intended solely f
 
 ## **Contact**
 
-For any questions or inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please reach out to [your-email@example.com](mailto:atshriva22@gmail.com).
